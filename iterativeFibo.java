@@ -8,5 +8,5 @@ public static long iterativeFibo(long num){
         a = b;
         b = temp;
     }
-    return b;
+    return a;
 }
